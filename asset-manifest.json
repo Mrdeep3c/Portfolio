@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio/static/js/main.2a1b27ca.js",
+    "static/media/Deepak.jpg": "/Portfolio/static/media/Deepak.4e3df0ebeef420537f45.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
+    "main.2a1b27ca.js.map": "/Portfolio/static/js/main.2a1b27ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.2a1b27ca.js"
+  ]
+}
